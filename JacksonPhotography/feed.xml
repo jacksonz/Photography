@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:46D9008F-30BC-4175-A56F-DDAC987A2F98</id>
  <title>Page list Atom feed</title>
- <updated>2012-09-05T12:18:32-04:00</updated>
+ <updated>2012-09-06T08:30:01-04:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Lines</title>
   <in-navbar xmlns="urn:iweb:">1DEAE085-BEFA-497A-922E-7F8641D5D706</in-navbar>
   <link rel="alternate" href="Lines.html"/>
-  <updated>2012-09-05T12:18:32.001-04:00</updated>
+  <updated>2012-09-06T08:30:01.001-04:00</updated>
   <content>Lines</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Personality</title>
   <in-navbar xmlns="urn:iweb:">4EEB9470-DC84-49BB-A5D0-7B5C8333E9F6</in-navbar>
   <link rel="alternate" href="Personality.html"/>
-  <updated>2012-09-05T12:18:32.002-04:00</updated>
+  <updated>2012-09-06T08:30:01.002-04:00</updated>
   <content>Personality</content>
  </entry>
 </feed>
