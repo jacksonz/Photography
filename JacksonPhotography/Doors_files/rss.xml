@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Jackson’s Photography</title>
+    <link>http://jackattack.com/JacksonPhotography/Doors.html</link>
+    <description>
+
+week 2 assignment</description>
+    <item>
+      <title>IMG_9596</title>
+      <link>http://jackattack.com/JacksonPhotography/Doors.html#0</link>
+      <guid isPermaLink="false">45b68dac-f1e7-4b39-8fac-8c2a905d0f50</guid>
+      <enclosure url="http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9596/IMG_9596.jpg" length="58528" type="image/jpeg"/>
+      <iphoto:thumbnail>http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9596/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9596/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_9596&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_9599</title>
+      <link>http://jackattack.com/JacksonPhotography/Doors.html#1</link>
+      <guid isPermaLink="false">550d6e0f-1231-4a73-ad70-c57292f1b1d8</guid>
+      <enclosure url="http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9599/IMG_9599.jpg" length="119840" type="image/jpeg"/>
+      <iphoto:thumbnail>http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9599/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9599/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_9599&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_9600</title>
+      <link>http://jackattack.com/JacksonPhotography/Doors.html#2</link>
+      <guid isPermaLink="false">17d1f339-010d-43c1-b0a6-b292d9551568</guid>
+      <enclosure url="http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9600/IMG_9600.jpg" length="121832" type="image/jpeg"/>
+      <iphoto:thumbnail>http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9600/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9600/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_9600&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_9598</title>
+      <link>http://jackattack.com/JacksonPhotography/Doors.html#3</link>
+      <guid isPermaLink="false">d6da3eab-2a09-4b85-9ee0-dd6c007d18e5</guid>
+      <enclosure url="http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9598/IMG_9598.jpg" length="45757" type="image/jpeg"/>
+      <iphoto:thumbnail>http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9598/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9598/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_9598&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_9601</title>
+      <link>http://jackattack.com/JacksonPhotography/Doors.html#4</link>
+      <guid isPermaLink="false">1e38e23c-3966-4f56-a017-d93f9e041f97</guid>
+      <enclosure url="http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9601/IMG_9601.jpg" length="76763" type="image/jpeg"/>
+      <iphoto:thumbnail>http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9601/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://jackattack.com/JacksonPhotography/Doors_files/Media/IMG_9601/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_9601&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

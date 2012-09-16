@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Jackson’s Photography</title>
+    <link>http://jackattack.com/JacksonPhotography/Composition.html</link>
+    <description>
+
+week 2 assignment</description>
+    <item>
+      <title>IMG_9586</title>
+      <link>http://jackattack.com/JacksonPhotography/Composition.html#0</link>
+      <guid isPermaLink="false">9f34fbd8-4f34-40fe-ac12-eeff4ecee466</guid>
+      <enclosure url="http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9586/IMG_9586.jpg" length="62799" type="image/jpeg"/>
+      <iphoto:thumbnail>http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9586/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9586/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_9586&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_9591</title>
+      <link>http://jackattack.com/JacksonPhotography/Composition.html#1</link>
+      <guid isPermaLink="false">090e1c2d-2ded-4ee4-b41d-e5fa4d6d5a5d</guid>
+      <enclosure url="http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9591/IMG_9591.jpg" length="67278" type="image/jpeg"/>
+      <iphoto:thumbnail>http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9591/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9591/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_9591&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_9595</title>
+      <link>http://jackattack.com/JacksonPhotography/Composition.html#2</link>
+      <guid isPermaLink="false">c637b1d4-0e87-40ce-83bc-adbb57524e21</guid>
+      <enclosure url="http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9595/IMG_9595.jpg" length="88308" type="image/jpeg"/>
+      <iphoto:thumbnail>http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9595/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9595/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_9595&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_9596</title>
+      <link>http://jackattack.com/JacksonPhotography/Composition.html#3</link>
+      <guid isPermaLink="false">2c6f9b40-5305-4385-aa2c-149555cb3a44</guid>
+      <enclosure url="http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9596/IMG_9596.jpg" length="58528" type="image/jpeg"/>
+      <iphoto:thumbnail>http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9596/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://jackattack.com/JacksonPhotography/Composition_files/Media/IMG_9596/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_180_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_9596&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
