@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20120906
+// Created by iWeb 3.0.4 local-build-20120916
 
 function createMediaStream_id1()
 {return IWCreatePhotocast("http://jackattack.com/JacksonPhotography/Lines_files/rss.xml",true);}
@@ -17,7 +17,7 @@ function onStubPage()
 if(window.stubPage)
 {onStubPage();}
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({shadow_1:new IWShadow({blurRadius:1,offset:new IWPoint(2.1213,2.1213),color:'#000000',opacity:0.700000}),shadow_0:new IWShadow({blurRadius:1,offset:new IWPoint(4.2426,4.2426),color:'#2b2b2a',opacity:0.900000}),stroke_0:new IWStrokeParts([{rect:new IWRect(-1,1,2,73),url:'Lines_files/stroke.png'},{rect:new IWRect(-1,-1,2,2),url:'Lines_files/stroke_1.png'},{rect:new IWRect(1,-1,658,2),url:'Lines_files/stroke_2.png'},{rect:new IWRect(659,-1,2,2),url:'Lines_files/stroke_3.png'},{rect:new IWRect(659,1,2,73),url:'Lines_files/stroke_4.png'},{rect:new IWRect(659,74,2,2),url:'Lines_files/stroke_5.png'},{rect:new IWRect(1,74,658,2),url:'Lines_files/stroke_6.png'},{rect:new IWRect(-1,74,2,2),url:'Lines_files/stroke_7.png'}],new IWSize(660,75)),shadow_2:new IWShadow({blurRadius:1,offset:new IWPoint(4.2426,4.2426),color:'#2b2b2a',opacity:0.900000})});registry.applyEffects();}
+{var registry=IWCreateEffectRegistry();registry.registerEffects({shadow_2:new IWShadow({blurRadius:1,offset:new IWPoint(4.2426,4.2426),color:'#2b2b2a',opacity:0.900000}),stroke_0:new IWStrokeParts([{rect:new IWRect(-1,1,2,73),url:'Lines_files/stroke.png'},{rect:new IWRect(-1,-1,2,2),url:'Lines_files/stroke_1.png'},{rect:new IWRect(1,-1,658,2),url:'Lines_files/stroke_2.png'},{rect:new IWRect(659,-1,2,2),url:'Lines_files/stroke_3.png'},{rect:new IWRect(659,1,2,73),url:'Lines_files/stroke_4.png'},{rect:new IWRect(659,74,2,2),url:'Lines_files/stroke_5.png'},{rect:new IWRect(1,74,658,2),url:'Lines_files/stroke_6.png'},{rect:new IWRect(-1,74,2,2),url:'Lines_files/stroke_7.png'}],new IWSize(660,75)),shadow_1:new IWShadow({blurRadius:1,offset:new IWPoint(2.1213,2.1213),color:'#000000',opacity:0.700000}),shadow_0:new IWShadow({blurRadius:1,offset:new IWPoint(4.2426,4.2426),color:'#2b2b2a',opacity:0.900000})});registry.applyEffects();}
 function hostedOnDM()
 {return false;}
 function onPageLoad()

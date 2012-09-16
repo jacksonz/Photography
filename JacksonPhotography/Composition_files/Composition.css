@@ -166,6 +166,10 @@ a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
+#widget4 a {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
 #id1 div.caption {
     line-height: 15px;
     margin-bottom: 0px;
@@ -177,6 +181,10 @@ a:hover {
     padding-top: 0px;
     text-align: center;
     text-indent: 0px;
+}
+#widget4 a:visited {
+    color: rgb(146, 146, 146);
+    text-decoration: underline;
 }
 #widget1 .Comment_Posted_Date {
     color: rgb(0, 118, 158);
@@ -260,6 +268,10 @@ a:hover {
 }
 #widget2 {
     display: none;
+}
+#widget4 a:hover {
+    color: rgb(244, 51, 46);
+    text-decoration: underline;
 }
 #widget3 a:visited {
     color: rgb(146, 146, 146);
